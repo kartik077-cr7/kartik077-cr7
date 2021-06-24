@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartik077-cr7
+- 👋 Hi, I’m Kartik
 - 👀 I’m interested in Web dev and Deep Learning
 - 🌱 I’m currently learning React,Pytorch
 - 💬 Ask me about Flask,C++,JavaScript,Fastai,Python
