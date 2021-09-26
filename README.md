@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kartik
 - 👀 I’m interested in Web dev and Deep Learning
 - 🌱 I’m currently learning React,Pytorch
-- 💬 Ask me about React,JavaScript,Python,FastAi,Flask,C++
+- 💬 Ask me about React,JavaScript,,C++,Python,FastAi,Flask,Django,Firebase,Material UI,Bootestrap,CSS,HTML
 - 📫 How to reach me 2019077@iiitdmj.ac.in
 
 <!---
